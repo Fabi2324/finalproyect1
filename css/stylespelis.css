@@ -1,0 +1,30 @@
+body{
+  background-color:#1f1f2e;
+}
+.glyphicon {
+  padding: 0px 5px;
+}
+.caret {
+  padding: 14px 0px
+}
+h1{
+  font-size: 60px;
+  color: white;
+  text-align:center;
+  font-family:Lucida Grande;
+  padding-botton:20px
+}
+ul{
+  color: #d1d1e0;
+  font-size: 20px;
+}
+div#search {
+  padding: 20px;
+  text-align:right
+}
+.row {
+  font-size: 30px 19px;
+}
+#generos{
+  padding-bottom: 30px;
+}
